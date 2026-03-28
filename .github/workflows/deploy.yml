@@ -43,4 +43,3 @@ jobs:
         with:
           folder: out
           branch: gh-pages
-          dotfiles: true
